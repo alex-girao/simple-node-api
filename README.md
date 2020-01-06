@@ -29,6 +29,45 @@ $ node index.js
   * Update Artist
   * Remove Artist
 
+## Endpoints
+#### List All
+GET /artists/index
+```bash
+http://localhost:3000/artists/
+```
+#### List By index
+GET /artists/index
+```bash
+http://localhost:3000/artists/1
+```
+#### Remove
+DELETE /artists/index
+```bash
+http://localhost:3000/artists/2
+```
+#### Create
+POST /artists
+```bash
+http://localhost:3000/artists/
+```
+Request Body 
+```bash
+{
+	"name": "James Blunt"
+}
+```
+#### Update
+PUT /artists/index
+```bash
+http://localhost:3000/artists/2
+```
+Request Body 
+```bash
+{
+	"name": "Adele Laurie Blue Adkins MBE"
+}
+```
+
 ## License
 
   [MIT](LICENSE)
