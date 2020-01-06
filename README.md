@@ -1,5 +1,5 @@
 # simple-node-api
-Simple Node API Example
+Simple Node API sample
 
 ## Features
 
