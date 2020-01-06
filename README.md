@@ -11,6 +11,8 @@ Simple Node API Example
 
 ## Quick Start
 
+To start the application is very simple.
+
   Install dependencies by Node:
 ```bash
 $ npm install
