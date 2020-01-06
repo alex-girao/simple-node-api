@@ -1,13 +1,7 @@
 # simple-node-api
-Simple Node API sample
+Simple [Node](https://nodejs.org/en/) API sample
 
-## Features
-
-  * List Artists
-  * List Artist
-  * Create Artist
-  * Update Artist
-  * Remove Artist
+![](https://img.shields.io/github/stars/alex-girao/simple-node-api) ![](https://img.shields.io/github/forks/alex-girao/simple-node-api) ![](https://img.shields.io/github/tag/alex-girao/simple-node-api) ![](https://img.shields.io/github/release/alex-girao/simple-node-api) ![](https://img.shields.io/github/issues/alex-girao/simple-node-api)
 
 ## Quick Start
 
@@ -27,3 +21,14 @@ $ yarn
 ```bash
 $ node index.js
 ```
+## Features
+
+  * List Artists
+  * List Artist
+  * Create Artist
+  * Update Artist
+  * Remove Artist
+
+## License
+
+  [MIT](LICENSE)
