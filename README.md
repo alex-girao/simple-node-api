@@ -36,12 +36,12 @@ GET /artists/index
 http://localhost:3000/artists/
 ```
 #### List By index
-GET /artists/index
+GET /artists/:index
 ```bash
 http://localhost:3000/artists/1
 ```
 #### Remove
-DELETE /artists/index
+DELETE /artists/:index
 ```bash
 http://localhost:3000/artists/2
 ```
@@ -57,7 +57,7 @@ Request Body
 }
 ```
 #### Update
-PUT /artists/index
+PUT /artists/:index
 ```bash
 http://localhost:3000/artists/2
 ```
